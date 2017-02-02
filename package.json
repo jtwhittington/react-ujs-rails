@@ -1,14 +1,10 @@
 {
   "name": "react-ujs-rails",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React UJS for Rails. Extracted from react-rails",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/collectiveidea/react-ujs-rails.git"
   },
   "keywords": [
     "react",
@@ -17,7 +13,7 @@
   "author": "Jon Stokes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/collectiveidea/react-ujs-rails/issues"
+    "url": "https://github.com/jtwhittington/react-ujs-rails/issues"
   },
-  "homepage": "https://github.com/collectiveidea/react-ujs-rails#readme"
+  "homepage": "https://github.com/jtwhittington/react-ujs-rails#readme"
 }
